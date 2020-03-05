@@ -1,0 +1,12 @@
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Services\bin\Debug\netstandard2.0\Company.Sample.Application.Services.deps.json
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Services\bin\Debug\netstandard2.0\Company.Sample.Application.Services.dll
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Services\bin\Debug\netstandard2.0\Company.Sample.Application.Services.pdb
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Services\bin\Debug\netstandard2.0\Company.Sample.Application.Messages.dll
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Services\bin\Debug\netstandard2.0\Company.Sample.Application.Messages.pdb
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Services\obj\Debug\netstandard2.0\Company.Sample.Application.Services.csprojAssemblyReference.cache
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Services\obj\Debug\netstandard2.0\Company.Sample.Application.Services.csproj.CoreCompileInputs.cache
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Services\obj\Debug\netstandard2.0\Company.Sample.Application.Services.AssemblyInfoInputs.cache
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Services\obj\Debug\netstandard2.0\Company.Sample.Application.Services.AssemblyInfo.cs
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Services\obj\Debug\netstandard2.0\Company.Sample.Application.Services.csproj.CopyComplete
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Services\obj\Debug\netstandard2.0\Company.Sample.Application.Services.dll
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Services\obj\Debug\netstandard2.0\Company.Sample.Application.Services.pdb

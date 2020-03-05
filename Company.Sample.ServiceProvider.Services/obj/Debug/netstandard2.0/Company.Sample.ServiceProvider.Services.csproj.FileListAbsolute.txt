@@ -1,0 +1,12 @@
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.ServiceProvider.Services\bin\Debug\netstandard2.0\Company.Sample.ServiceProvider.Services.deps.json
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.ServiceProvider.Services\bin\Debug\netstandard2.0\Company.Sample.ServiceProvider.Services.dll
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.ServiceProvider.Services\bin\Debug\netstandard2.0\Company.Sample.ServiceProvider.Services.pdb
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.ServiceProvider.Services\bin\Debug\netstandard2.0\Company.Sample.ServiceProvider.Messages.dll
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.ServiceProvider.Services\bin\Debug\netstandard2.0\Company.Sample.ServiceProvider.Messages.pdb
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.ServiceProvider.Services\obj\Debug\netstandard2.0\Company.Sample.ServiceProvider.Services.csprojAssemblyReference.cache
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.ServiceProvider.Services\obj\Debug\netstandard2.0\Company.Sample.ServiceProvider.Services.csproj.CoreCompileInputs.cache
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.ServiceProvider.Services\obj\Debug\netstandard2.0\Company.Sample.ServiceProvider.Services.AssemblyInfoInputs.cache
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.ServiceProvider.Services\obj\Debug\netstandard2.0\Company.Sample.ServiceProvider.Services.AssemblyInfo.cs
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.ServiceProvider.Services\obj\Debug\netstandard2.0\Company.Sample.ServiceProvider.Services.csproj.CopyComplete
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.ServiceProvider.Services\obj\Debug\netstandard2.0\Company.Sample.ServiceProvider.Services.dll
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.ServiceProvider.Services\obj\Debug\netstandard2.0\Company.Sample.ServiceProvider.Services.pdb

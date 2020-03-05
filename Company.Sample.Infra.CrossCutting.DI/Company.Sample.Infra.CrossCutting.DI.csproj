@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Company.Sample.Application.Services.Imp\Company.Sample.Application.Services.Imp.csproj" />
+    <ProjectReference Include="..\Company.Sample.Application.Services\Company.Sample.Application.Services.csproj" />
+    <ProjectReference Include="..\Company.Sample.Infra.DataAccess.SQL\Company.Sample.Infra.DataAccess.SQL.csproj" />
+    <ProjectReference Include="..\Company.Sample.Infra.DataAccess\Company.Sample.Infra.DataAccess.csproj" />
+    <ProjectReference Include="..\Company.Sample.Services.Imp\Company.Sample.Services.Imp.csproj" />
+    <ProjectReference Include="..\Company.Sample.Services.Model\Company.Sample.Services.Model.csproj" />
+    <ProjectReference Include="..\Company.Sample.Services\Company.Sample.Services.csproj" />
+  </ItemGroup>
+
+</Project>

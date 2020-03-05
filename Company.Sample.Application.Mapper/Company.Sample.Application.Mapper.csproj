@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Company.Sample.Application.Messages\Company.Sample.Application.Messages.csproj" />
+    <ProjectReference Include="..\Company.Sample.Services.Model\Company.Sample.Services.Model.csproj" />
+  </ItemGroup>
+
+</Project>

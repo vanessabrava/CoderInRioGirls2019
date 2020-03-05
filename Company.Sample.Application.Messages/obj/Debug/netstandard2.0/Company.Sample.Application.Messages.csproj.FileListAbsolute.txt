@@ -1,0 +1,9 @@
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Messages\bin\Debug\netstandard2.0\Company.Sample.Application.Messages.deps.json
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Messages\bin\Debug\netstandard2.0\Company.Sample.Application.Messages.dll
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Messages\bin\Debug\netstandard2.0\Company.Sample.Application.Messages.pdb
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Messages\obj\Debug\netstandard2.0\Company.Sample.Application.Messages.csprojAssemblyReference.cache
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Messages\obj\Debug\netstandard2.0\Company.Sample.Application.Messages.csproj.CoreCompileInputs.cache
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Messages\obj\Debug\netstandard2.0\Company.Sample.Application.Messages.AssemblyInfoInputs.cache
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Messages\obj\Debug\netstandard2.0\Company.Sample.Application.Messages.AssemblyInfo.cs
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Messages\obj\Debug\netstandard2.0\Company.Sample.Application.Messages.dll
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Messages\obj\Debug\netstandard2.0\Company.Sample.Application.Messages.pdb

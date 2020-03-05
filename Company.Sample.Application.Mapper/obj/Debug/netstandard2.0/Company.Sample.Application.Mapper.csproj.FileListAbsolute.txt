@@ -1,0 +1,14 @@
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Mapper\bin\Debug\netstandard2.0\Company.Sample.Application.Mapper.deps.json
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Mapper\bin\Debug\netstandard2.0\Company.Sample.Application.Mapper.dll
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Mapper\bin\Debug\netstandard2.0\Company.Sample.Application.Mapper.pdb
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Mapper\bin\Debug\netstandard2.0\Company.Sample.Application.Messages.dll
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Mapper\bin\Debug\netstandard2.0\Company.Sample.ServiceProvider.Messages.dll
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Mapper\bin\Debug\netstandard2.0\Company.Sample.Application.Messages.pdb
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Mapper\bin\Debug\netstandard2.0\Company.Sample.ServiceProvider.Messages.pdb
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Mapper\obj\Debug\netstandard2.0\Company.Sample.Application.Mapper.csprojAssemblyReference.cache
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Mapper\obj\Debug\netstandard2.0\Company.Sample.Application.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Mapper\obj\Debug\netstandard2.0\Company.Sample.Application.Mapper.AssemblyInfoInputs.cache
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Mapper\obj\Debug\netstandard2.0\Company.Sample.Application.Mapper.AssemblyInfo.cs
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Mapper\obj\Debug\netstandard2.0\Company.Sample.Application.Mapper.csproj.CopyComplete
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Mapper\obj\Debug\netstandard2.0\Company.Sample.Application.Mapper.dll
+C:\Users\dioge\source\repos\Company.Sample\Company.Sample.Application.Mapper\obj\Debug\netstandard2.0\Company.Sample.Application.Mapper.pdb
